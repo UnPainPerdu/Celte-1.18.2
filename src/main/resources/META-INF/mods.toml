@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+
+[[mods]]
+modId="celte04200303"
+version="${file.jarVersion}"
+displayName="Celte"
+logoFile="examplemod.png"
+credits="UnPainPerdu"
+authors="UnPainPerdu"
+description='''
+Un mod sur les celtes de toute l'Europe avec un bonne dose de fantaisie.
+A mod about Celts from across Europe with some fantaisie stuff.
+'''
+[[dependencies.celte04200303]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.celte04200303]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
