@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "celte04200303:block/stripped_old_oak_log",
+    "side": "celte04200303:block/stripped_old_oak_log"
+  }
+}

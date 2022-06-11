@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "celte04200303:old_oak_logs"
+    }
+  ],
+  "result": {
+    "item": "minecraft:oak_planks",
+    "count": 8
+  }
+}
