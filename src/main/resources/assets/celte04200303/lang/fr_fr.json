@@ -1,0 +1,20 @@
+{
+  "item.celte04200303.raw_tin": "Etain brut",
+  "item.celte04200303.tin_ingot": "Lingot d'étain",
+  "item.celte04200303.bronze_ingot": "Lingot de bronze",
+
+  "block.celte04200303.tin_ore": "Minerai d'étain",
+  "block.celte04200303.tin_block": "Bloc d'étain",
+  "block.celte04200303.raw_tin_block": "Bloc d'étain brut",
+  "block.celte04200303.bronze_block": "Bloc de bronze",
+  "block.celte04200303.old_oak_log": "Bûche d'ancien chêne",
+  "block.celte04200303.old_oak_wood": "Bois d'ancien chêne",
+  "block.celte04200303.stripped_old_oak_log": "Bûche d'ancien chêne écorcé",
+  "block.celte04200303.stripped_old_oak_wood": "Bois d'ancien chêne écorcé",
+
+  "item.celte04200303.bronze_sword": "Epée en bronze",
+
+
+  "itemGroup.celtetab":"Celte"
+
+}

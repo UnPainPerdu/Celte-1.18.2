@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "celte04200303:bronze_block"
+    }
+  ],
+  "result": {
+    "item": "celte04200303:bronze_ingot",
+    "count": 9
+  }
+}

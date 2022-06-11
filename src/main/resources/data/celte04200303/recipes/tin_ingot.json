@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "celte04200303:tin_block"
+    }
+  ],
+  "result": {
+    "item": "celte04200303:tin_ingot",
+    "count": 9
+  }
+}

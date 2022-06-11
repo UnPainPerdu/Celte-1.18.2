@@ -1,0 +1,19 @@
+{
+  "item.celte04200303.raw_tin": "Raw tin",
+  "item.celte04200303.tin_ingot": "Tin ingot",
+  "item.celte04200303.bronze_ingot": "Bronze ingot",
+
+  "block.celte04200303.tin_ore": "Tin ore",
+  "block.celte04200303.tin_block": "Tin block",
+  "block.celte04200303.raw_tin_block": "Raw tin block",
+  "block.celte04200303.bronze_block": "Bronze block",
+  "block.celte04200303.old_oak_log": "Old oak Log",
+  "block.celte04200303.old_oak_wood": "Old oak Wood",
+  "block.celte04200303.stripped_old_oak_log": "Stripped old oak Log",
+  "block.celte04200303.stripped_old_oak_wood": "Stripped old oak Wood",
+
+  "item.celte04200303.bronze_sword": "Bronze sword",
+
+  "itemGroup.celtetab":"Celt"
+
+}

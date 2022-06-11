@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "celte04200303:block/bronze_block"
+  }
+}
