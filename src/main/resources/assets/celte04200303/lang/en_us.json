@@ -2,6 +2,8 @@
   "item.celte04200303.raw_tin": "Raw tin",
   "item.celte04200303.tin_ingot": "Tin ingot",
   "item.celte04200303.bronze_ingot": "Bronze ingot",
+  "item.celte04200303.bronze_sword_blade": "Bronze sword blade",
+  "item.celte04200303.bronze_sword_hilt": "Bronze sword hilt",
 
   "block.celte04200303.tin_ore": "Tin ore",
   "block.celte04200303.tin_block": "Tin block",
@@ -11,6 +13,12 @@
   "block.celte04200303.old_oak_wood": "Old oak Wood",
   "block.celte04200303.stripped_old_oak_log": "Stripped old oak Log",
   "block.celte04200303.stripped_old_oak_wood": "Stripped old oak Wood",
+  "block.celte04200303.old_oak_leaves": "Oak leaves with mistletoe",
+  "block.celte04200303.old_oak_sapling": "Oak sapling covered by mistletoe",
+  "block.celte04200303.funeral_statue": "Funeral Statue",
+  "block.celte04200303.bronze_jar": "Bronze jar",
+  "block.celte04200303.stone_jar": "Stone jar",
+  "block.celte04200303.copper_smithy": "Copper smithy",
 
   "item.celte04200303.bronze_sword": "Bronze sword",
 

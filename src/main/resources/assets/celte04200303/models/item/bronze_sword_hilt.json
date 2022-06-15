@@ -1,0 +1,7 @@
+{
+"parent": "item/handheld",
+"textures": {
+  "layer0": "celte04200303:item/bronze_sword_hilt"
+   }
+}
+

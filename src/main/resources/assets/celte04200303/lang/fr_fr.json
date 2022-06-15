@@ -2,6 +2,8 @@
   "item.celte04200303.raw_tin": "Etain brut",
   "item.celte04200303.tin_ingot": "Lingot d'étain",
   "item.celte04200303.bronze_ingot": "Lingot de bronze",
+  "item.celte04200303.bronze_sword_blade": "Lame d'épée en bronze",
+  "item.celte04200303.bronze_sword_hilt": "Poignée d'épée en bronze",
 
   "block.celte04200303.tin_ore": "Minerai d'étain",
   "block.celte04200303.tin_block": "Bloc d'étain",
@@ -11,9 +13,14 @@
   "block.celte04200303.old_oak_wood": "Bois d'ancien chêne",
   "block.celte04200303.stripped_old_oak_log": "Bûche d'ancien chêne écorcé",
   "block.celte04200303.stripped_old_oak_wood": "Bois d'ancien chêne écorcé",
+  "block.celte04200303.old_oak_leaves": "Feuilles de chêne avec gui",
+  "block.celte04200303.old_oak_sapling": "Pousse de chêne couverte de gui",
+  "block.celte04200303.funeral_statue": "Statue funéraire",
+  "block.celte04200303.bronze_jar": "Pot de bronze",
+  "block.celte04200303.stone_jar": "Pot de pierre",
+  "block.celte04200303.copper_smithy": "Forge de cuivre",
 
   "item.celte04200303.bronze_sword": "Epée en bronze",
-
 
   "itemGroup.celtetab":"Celte"
 

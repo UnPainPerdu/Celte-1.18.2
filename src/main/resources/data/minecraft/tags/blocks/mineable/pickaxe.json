@@ -4,6 +4,10 @@
     "celte04200303:tin_ore",
     "celte04200303:tin_block",
     "celte04200303:raw_tin_block",
-    "celte04200303:bronze_block"
-    ]
+    "celte04200303:bronze_block",
+    "celte04200303:bronze_jar",
+    "celte04200303:stone_jar",
+    "celte04200303:funeral_statue",
+    "celte04200303:copper_smithy"
+  ]
 }

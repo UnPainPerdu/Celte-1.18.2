@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "celte04200303:bronze_sword_hilt"
+  },
+  "addition": {
+    "item": "celte04200303:bronze_sword_blade"
+  },
+  "result": {
+    "item": "celte04200303:bronze_sword",
+    "count": 1
+
+  }
+}

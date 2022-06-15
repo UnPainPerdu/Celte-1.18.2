@@ -7,10 +7,10 @@
   ],
   "key": {
     "#": {
-      "item": "celte04200303:bronze_ingot"
+      "item": "minecraft:stone"
     }
   },
   "result": {
-    "item": "celte04200303:bronze_sword"
+    "item": "celte04200303:funeral_statue"
   }
 }

@@ -4,7 +4,7 @@
     "item": "minecraft:copper_ingot"
   },
   "addition": {
-    "item": "celte04200303:tin_ingot"
+    "tag": "forge:ingots/tin"
   },
   "result": {
     "item": "celte04200303:bronze_ingot",

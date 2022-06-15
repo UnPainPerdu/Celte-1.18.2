@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XYX",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "X": {
+      "item": "minecraft:copper_ingot"
+    },
+    "Y": {
+      "item": "minecraft:furnace"
+    }
+  },
+  "result": {
+    "item": "celte04200303:copper_smithy"
+  }
+}

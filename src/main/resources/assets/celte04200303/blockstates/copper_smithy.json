@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "celte04200303:block/copper_smithy"},
+    "facing=east": { "model": "celte04200303:block/copper_smithy", "y": 90 },
+    "facing=south": { "model": "celte04200303:block/copper_smithy","y": 180},
+    "facing=west": { "model": "celte04200303:block/copper_smithy", "y": 270 }
+  }
+}

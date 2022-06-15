@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "celte04200303:block/funeral_statue", "y": 180 },
+    "facing=east": { "model": "celte04200303:block/funeral_statue", "y": 270 },
+    "facing=south": { "model": "celte04200303:block/funeral_statue"},
+    "facing=west": { "model": "celte04200303:block/funeral_statue", "y": 90 }
+  }
+}

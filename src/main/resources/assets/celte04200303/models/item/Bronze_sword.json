@@ -1,7 +1,96 @@
 {
-"parent": "item/handheld",
-"textures": {
-  "layer0": "celte04200303:item/bronze_sword"
-   }
-}
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "celte04200303:item/bronze_sword"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        10,
+        0
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        0.7
+        ],
+        "rotation":[
+          0,
+          90,
+          45
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        10,
+        0
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        0.7
+      ],
+      "rotation":[
+        0,
+        -90,
+        -45
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        10,
+        0
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        0.7
+      ],
+      "rotation":[
+        0,
+        90,
+        45
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        10,
+        0
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        0.7
+      ],
+      "rotation":[
+        0,
+        -90,
+        -45
+      ]
+    },
+    "ground": {
+      "scale": [
+        1.5,
+        1.5,
+        0.7
+      ]
+    },
+    "gui": {
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
 
+  }
+}

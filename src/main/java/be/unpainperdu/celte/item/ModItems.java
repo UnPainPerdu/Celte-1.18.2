@@ -22,6 +22,12 @@ public class ModItems {
     public  static  final RegistryObject<Item> BRONZE_INGOT = ITEMS.register("bronze_ingot",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.CELTE_TAB)));
 
+    public  static  final RegistryObject<Item> BRONZE_SWORD_BLADE = ITEMS.register("bronze_sword_blade",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.CELTE_TAB)));
+
+    public  static  final RegistryObject<Item> BRONZE_SWORD_HILD = ITEMS.register("bronze_sword_hilt",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.CELTE_TAB)));
+
     public  static  final RegistryObject<Item> BRONZE_SWORD = ITEMS.register("bronze_sword",
             () -> new SwordItem(ModTiers.BRONZE, 3, 1f,
                     new Item.Properties().tab(ModCreativeModeTab.CELTE_TAB)));

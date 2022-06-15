@@ -1,0 +1,15 @@
+{
+  "type": "celte04200303:copper_smithing",
+  "ingredients": [
+    {
+      "item": "minecraft:copper_ingot",
+
+      "item": "celte04200303:tin_ingot"
+    }
+
+  ],
+  "output": {
+    "item": "celte04200303:bronze_ingot",
+    "count": 2
+  }
+}

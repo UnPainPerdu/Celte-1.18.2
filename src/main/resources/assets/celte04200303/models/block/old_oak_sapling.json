@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "celte04200303:block/old_oak_sapling"
+  }
+}

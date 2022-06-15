@@ -12,6 +12,7 @@ public class ModTags {
     public static class Blocks {
         public static final TagKey<Block> OLD_OAK_LOGS = tag("old_oak_logs");
 
+
         private static TagKey<Block> tag(String name) {
             return BlockTags.create(new ResourceLocation(Celte.MOD_ID, name));
         }

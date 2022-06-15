@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "celte04200303:block/bronze_jar", "y": 180 },
+    "facing=east": { "model": "celte04200303:block/bronze_jar", "y": 270 },
+    "facing=south": { "model": "celte04200303:block/bronze_jar"},
+    "facing=west": { "model": "celte04200303:block/bronze_jar", "y": 90 }
+  }
+}

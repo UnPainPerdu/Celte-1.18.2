@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "celte04200303:block/old_oak_sapling"
+  }
+}
