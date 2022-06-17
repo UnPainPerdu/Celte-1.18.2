@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "celte04200303:block/twig_block",
+    "top": "celte04200303:block/twig_block",
+    "side": "celte04200303:block/twig_block"
+  }
+}

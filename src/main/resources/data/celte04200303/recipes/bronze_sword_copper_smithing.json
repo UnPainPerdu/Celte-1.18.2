@@ -1,0 +1,14 @@
+{
+  "type": "celte04200303:copper_smithing",
+  "ingredients": [
+    {
+      "item": "celte04200303:bronze_sword_hilt"
+    },
+    {
+      "item": "celte04200303:bronze_sword_blade"
+    }
+  ],
+  "output": {
+    "item": "celte04200303:bronze_sword"
+  }
+}

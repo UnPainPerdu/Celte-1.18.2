@@ -41,6 +41,30 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK))
                   , ModCreativeModeTab.CELTE_TAB);
 
+    public static final RegistryObject<Block> THATCH_BLOCK_A = registerBlock("thatch_block_a",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.DIRT))
+            , ModCreativeModeTab.CELTE_TAB);
+
+    public static final RegistryObject<Block> THATCH_BLOCK_B = registerBlock("thatch_block_b",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.DIRT))
+            , ModCreativeModeTab.CELTE_TAB);
+
+    public static final RegistryObject<Block> TWIG_BLOCK = registerBlock("twig_block",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.OAK_PLANKS))
+            , ModCreativeModeTab.CELTE_TAB);
+
+    public static final RegistryObject<Block> TWIG_STAIRS = registerBlock("twig_stairs",
+            () -> new StairBlock(() -> ModBlocks.TWIG_BLOCK.get().defaultBlockState(),BlockBehaviour.Properties.copy(Blocks.OAK_PLANKS))
+            , ModCreativeModeTab.CELTE_TAB);
+
+    public static final RegistryObject<Block> TWIG_SLAB = registerBlock("twig_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.OAK_PLANKS))
+            , ModCreativeModeTab.CELTE_TAB);
+
+    public static final RegistryObject<Block> TWIG_WALL = registerBlock("twig_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.OAK_PLANKS))
+            , ModCreativeModeTab.CELTE_TAB);
+
     public static final RegistryObject<Block> OLD_OAK_LOG = registerBlock("old_oak_log",
             () -> new ModFlammableRotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.OAK_LOG))
                    , ModCreativeModeTab.CELTE_TAB);

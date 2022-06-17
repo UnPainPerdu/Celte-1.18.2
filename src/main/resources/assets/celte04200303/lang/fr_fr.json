@@ -19,6 +19,13 @@
   "block.celte04200303.bronze_jar": "Pot de bronze",
   "block.celte04200303.stone_jar": "Pot de pierre",
   "block.celte04200303.copper_smithy": "Forge de cuivre",
+  "block.celte04200303.thatch_block_a": "Bloc de chaume",
+  "block.celte04200303.thatch_block_b": "Bloc de chaume",
+  "block.celte04200303.twig_block": "Bloc de brindille",
+  "block.celte04200303.twig_stairs": "Escalier en brindille",
+  "block.celte04200303.twig_slab": "Dalle de brindille",
+  "block.celte04200303.twig_wall": "Muret en brindille",
+
 
   "item.celte04200303.bronze_sword": "Epée en bronze",
 

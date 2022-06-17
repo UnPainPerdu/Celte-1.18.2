@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "celte04200303:twig_block"
+    }
+  },
+  "result": {
+    "item": "celte04200303:twig_wall",
+    "count": 6
+  }
+}

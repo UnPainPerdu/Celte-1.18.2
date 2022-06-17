@@ -76,7 +76,7 @@ public class CopperSmithyBlockEntity extends BlockEntity implements MenuProvider
 
     @Override
     public Component getDisplayName() {
-        return new TextComponent("Gem Cutting Station");
+        return new TextComponent("Copper Smithy");
     }
 
     @Nullable

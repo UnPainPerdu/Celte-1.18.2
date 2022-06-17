@@ -19,6 +19,12 @@
   "block.celte04200303.bronze_jar": "Bronze jar",
   "block.celte04200303.stone_jar": "Stone jar",
   "block.celte04200303.copper_smithy": "Copper smithy",
+  "block.celte04200303.thatch_block_a": "Thatch block",
+  "block.celte04200303.thatch_block_b": "Thatch block",
+  "block.celte04200303.twig_block": "Twig block",
+  "block.celte04200303.twig_stairs": "Twig stairs",
+  "block.celte04200303.twig_slab": "Twig slab",
+  "block.celte04200303.twig_wall": "Twig wall",
 
   "item.celte04200303.bronze_sword": "Bronze sword",
 

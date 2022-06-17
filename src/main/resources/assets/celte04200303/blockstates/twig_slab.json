@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "celte04200303:block/twig_slab"
+    },
+    "type=double": {
+      "model": "celte04200303:block/twig_block"
+    },
+    "type=top": {
+      "model": "celte04200303:block/twig_slab_top"
+    }
+  }
+}
